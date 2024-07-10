@@ -4,6 +4,13 @@
 
 O curso **Fundamentos de Programação em JavaScript** foi desenvolvido pelo RoboLab para oferecer uma introdução à programação através da linguagem JavaScript. Em 2023, o curso foi oferecido presencialmente, com a maioria dos alunos pertencentes ao IFRS - Campus Restinga. Além disso, alunos dos cursos de Técnico de Informática, Análise e Desenvolvimento de Sistemas, e Eletrônica se inscreveram para reforçar seus estudos. Alunos de outros cursos, como Lazer, também participaram para ter seu primeiro contato com a programação.
 
+## Bolsistas Participantes
+
+- Maxine Klein 
+- Érika Gonçalves Rodrigues
+- Catharina Sbaraini
+- Ashiley Bianca (Orientação)
+
 ### Objetivos do Curso
 
 - Introduzir os conceitos básicos de programação utilizando a linguagem JavaScript.
