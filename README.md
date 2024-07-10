@@ -11,6 +11,8 @@ O curso **Fundamentos de Programação em JavaScript** foi desenvolvido pelo Rob
 - Catharina Sbaraini
 - Ashiley Bianca (Orientação)
 
+- **Professor Orientador:** Iuri Albandes
+
 ### Objetivos do Curso
 
 - Introduzir os conceitos básicos de programação utilizando a linguagem JavaScript.
