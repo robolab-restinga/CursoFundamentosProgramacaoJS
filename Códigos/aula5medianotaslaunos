@@ -1,0 +1,30 @@
+let numeroAlunos = prompt("Digite o número de alunos: ");
+
+if(numeroAlunos == 0) {
+  alert("Número de alunos inválido, tente novamente.");
+}
+else {
+  numeroAlunos = parseInt(numeroAlunos); 
+
+  let alunosNomes = [];
+  let alunosNotas = [];
+  let somaNotas = 0; 
+
+  for(let i = 1; i <= numeroAlunos; i++) {
+    let nomeAluno = prompt("Digite o nome do aluno " + i + ": ");
+    let notaAluno = parseFloat(prompt("Digite a nota do aluno " + i + ": "));
+
+    somaNotas = somaNotas + notaAluno; 
+    
+    alunosNomes.push(nomeAluno);
+    alunosNotas.push(notaAluno);
+  }
+  
+  let media = somaNotas / numeroAlunos;
+  
+  for(let i = 0; i < alunosNomes.length; i++) {
+    console.log("Nome do aluno: " + alunosNomes[i] + ", Nota: " + alunosNotas[i]);
+  }
+  
+  console.log("Média das notas dos alunos: " + media.toFixed(2));
+}
